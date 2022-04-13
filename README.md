@@ -1,6 +1,6 @@
 # Deep Learning-Based Power Control for Uplink Cell-Free Massive MIMO Systems
 
-This is a code package related to the following scientific article:
+This is a code package related to the following scientific article: hellow world
 
 Y. Zhang, J. Zhang, Y. Jin, S. Buzzi, and B. Ai, “Deep learning-based power control for uplink cell-free massive MIMO systems,” in *2021 IEEE Globecom.* IEEE, 2021, pp. 1–6. 
 
