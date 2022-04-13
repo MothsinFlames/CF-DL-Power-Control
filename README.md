@@ -2,7 +2,7 @@
 
 This is a code package related to the following scientific article:
 
-Y. Zhang, J. Zhang, Y. Jin, S. Buzzi, and B. Ai, “Deep learning-based power control for uplink cell-free massive MIMO systems,” in *2021 IEEE Globecom.* IEEE, 2021, pp. 1–6.
+Y. Zhang, J. Zhang, Y. Jin, S. Buzzi, and B. Ai, “Deep learning-based power control for uplink cell-free massive MIMO systems,” in *2021 IEEE Globecom.* IEEE, 2021, pp. 1–6. 
 
 The package contains a simulation environment, based on Matlab and Python, that reproduces some of the numerical results and figures in the article. We encourage you to also perform reproducible research!
 
